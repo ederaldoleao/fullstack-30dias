@@ -126,4 +126,4 @@ else {
 
 // Pergunta 1: Alguns programadores gostam de café.
 // Pergunta 2: Limpo, estruturado e fácil de manter.
-// Clareza.
+// Pergunta 3: Clareza.
