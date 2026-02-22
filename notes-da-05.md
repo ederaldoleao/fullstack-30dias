@@ -1,0 +1,5 @@
+DOM
+getElementById
+textContent
+addEventListener
+event handling
